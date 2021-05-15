@@ -43,4 +43,5 @@ Packages/
 .idea
 build/
 debug/
+nbproject/private
 
